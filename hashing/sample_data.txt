@@ -1,0 +1,4 @@
+This is the original file.
+Integrity should remain intact.
+This line simulates modification.
+Malicious change added!
